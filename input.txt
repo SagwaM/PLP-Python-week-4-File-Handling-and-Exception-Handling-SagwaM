@@ -1,0 +1,3 @@
+This is the content of the input.txt file.
+You can add any text you want here.
+This file is used for file handling and exception handling exercises.
